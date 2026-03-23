@@ -1,6 +1,11 @@
-# MyShop - Django E-commerce Platform
 
-A full-stack E-commerce application built with **Django**, featuring a modern UI, user authentication, a robust product management system, and integrated **eSewa** payment gateway.
+# Django E-commerce Website with eSewa Payment Integration
+
+This is a full-featured e-commerce web application built using Django and Python. It includes user authentication, product management, shopping cart, order tracking, and secure payment integration using eSewa (popular in Nepal).
+
+This project is ideal for learning full-stack web development and real-world payment gateway integration.
+
+If you like this project, please give it a star!
 
 ## Project Gallery
 
