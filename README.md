@@ -1,5 +1,5 @@
 
-# Django E-commerce Website with eSewa Payment Integration
+# Django E-commerce Web application with eSewa Payment Integration
 
 This is a full-featured e-commerce web application built using Django and Python. It includes user authentication, product management, shopping cart, order tracking, and secure payment integration using eSewa (popular in Nepal).
 
